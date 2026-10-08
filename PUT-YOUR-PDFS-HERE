@@ -1,0 +1,5 @@
+Put your domain PDFs in this folder (e.g., product manuals, FAQs,
+patient intake forms — whatever fits the industry your group chose).
+
+The script (rag_script.py) will automatically load every .pdf file
+found in this folder when you run it.
